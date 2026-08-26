@@ -6,7 +6,7 @@
 - [example-bunny.chobble.com](https://example-bunny.chobble.com) (Bunny)
 - [example.chobble.com](https://example.chobble.com) (Neocities)
 
-**Want a website based on this template? Clone this repo, or hit me up at [Chobble.com](https://chobble.com).**
+**Want a website based on this template? Clone this repo, or hit me up at [Chobble.com](https://www.chobble.com).**
 
 This template should let you get started with the Eleventy static site builder on NixOS / Nix, really easily.
 

@@ -7,4 +7,4 @@
 
 ---
 
-**This is a demo site. If you'd like a website just like this for your business, get in touch with me at [chobble.com](https://chobble.com).**
+**This is a demo site. If you'd like a website just like this for your business, get in touch with me at [chobble.com](https://www.chobble.com).**
